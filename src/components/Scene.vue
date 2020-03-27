@@ -236,7 +236,7 @@ export default {
 .button {
   width: 200px;
   padding: 20px 0;
-  margin: 0 20px 0 20px;
+  margin: 10px 20px;
   border-width: 0;
   border-radius: 50px;
   color: #000000;
