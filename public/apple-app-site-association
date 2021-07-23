@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps":[],
+    "details":[
+      {
+        "appID": "2ZDWAB9ADZ.com.cadoh.vendor",
+        "paths":["/uni/*"]
+      },
+      {
+        "appID": "2ZDWAB9ADZ.com.cadoh",
+        "paths":["/uni/*"]
+      },
+      {
+        "appID":"2ZDWAB9ADZ.com.cadoh.driver",
+        "paths":["/uni/*"]
+      }
+    ]
+  }
+}
